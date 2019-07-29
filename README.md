@@ -3,12 +3,12 @@
 ![web net](web.jpeg)
 
 Introduction to Keras and Tensorflow for lab projects.
-****
+*****
 ### Hello! 
 
 If you're here, you're probably a member of the Hamilton lab and you probably want or need to figure out how to use neural networks for your projects. Great! This repo will provide you with everything you need to get started. 
 
-****
+*****
 
 ## Getting Started 
 ### Requirements and Instalation 
@@ -26,7 +26,7 @@ I'd recommend getting Anaconda and creating a conda environment with these packa
 _[More on getting Anaconda](https://www.anaconda.com/distribution/)._
 
 **Note:** It is necessary to install both Keras and Tensorflow for this notebook, but you'll use only one. Using the tensorflow module `tf.keras`  is almost identical to standalone `keras`, though the `tf.keras` uses slightly different stuff under the hood. You can use either one to run the examples in this notebook, but I'd reccomend `keras` for now.  Once you get the hang of keras, you can move on to or even combine it with regular tensorflow if you want to do something really fancy! 
-****
+*****
 ### After you install anaconda, you'll run something like this in your terminal:  
 `conda create -n tensorflow_env tensorflow keras`   _* mind the spaces!_   
    
@@ -36,14 +36,14 @@ You can use any name you want for your environment by swapping `tensorflow_env` 
 _* For more on installing tensorflow with anaconda, follow the instructions [here](https://www.anaconda.com/tensorflow-in-anaconda/)._ 
 
 __Note:__ You may have to up- or down-grade the `tf` version. As of this writing, the stable versions are 1.12 or 1.13, but 2.0 has been rolled out. This isn't too big of an issue as we'll be using Keras anyway, and we only need a compatable version of tensorflow to work with Keras.  If you need to do so, replace `tensorflow` with `tesnorflow==1.12`  
-****
+*****
 ### To activate your environment, run:  
 `conda activate tensorflow_env`
   
 When active, your terminal will look something like:  
     
 `(my_env_name) userid:/cur/open/path$` 
-****
+*****
 ### Then set the correct python version:  
 
 `conda install python==3.6`  
@@ -54,4 +54,4 @@ _* Make sure pip is up to date!!!_
 
 For everyting you'll ever need on Keras, check out [this](https://keras.io/) resource.
 
-****
+*****
