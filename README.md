@@ -1,11 +1,11 @@
 # NeuralNetTutorial
-Introduction to Keras and Tensorflow for lab projects.
-
 ![web net](web.jpeg)
 
+Introduction to Keras and Tensorflow for lab projects.
+***
 ### Hello! 
 
-If you're here, you're probably a member of the Hamilton lab and you probably want or need to figure out how to use neural networks for your projects. Great! This notebook repo provide you with everything you need to get started. 
+If you're here, you're probably a member of the Hamilton lab and you probably want or need to figure out how to use neural networks for your projects. Great! This repo will provide you with everything you need to get started. 
 
 ***
 
