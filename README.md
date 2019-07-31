@@ -12,8 +12,7 @@ If you're here, you're probably a member of the Hamilton lab and you probably wa
 
 ## Getting Started 
 ## Notebooks Only
-If you're just running the notebook, follow the link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)!
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)
 
 ### Requirements and Instalation 
 
