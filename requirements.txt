@@ -1,5 +1,5 @@
 numpy
 matplotlib
 keras
-tensorflow==1.12
+tensorflow==1.12.2
 
