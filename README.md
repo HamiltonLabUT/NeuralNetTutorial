@@ -2,6 +2,7 @@
 
 ![web net](web.jpeg)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)
+
 Introduction to Keras and Tensorflow for lab projects.
 *****
 ### Hello! 
