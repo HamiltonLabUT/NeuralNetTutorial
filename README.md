@@ -1,7 +1,7 @@
 # NeuralNetTutorial
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)
-![web net](web.jpeg)
 
+![web net](web.jpeg)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)
 Introduction to Keras and Tensorflow for lab projects.
 *****
 ### Hello! 
@@ -11,7 +11,6 @@ If you're here, you're probably a member of the Hamilton lab and you probably wa
 *****
 
 ## Getting Started 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HamiltonLabUT/NeuralNetTutorial.git/master)
 
 ### Requirements and Instalation 
 
